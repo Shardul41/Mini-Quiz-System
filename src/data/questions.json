@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the color of an emerald?",
+    "options": ["Red", "Black", "Green", "Yellow"],
+    "correct": 3
+  },
+  {
+    "id": 2,
+    "question": "Which of these is a primary color?",
+    "options": ["Purple", "Red", "Orange", "Pink"],
+    "correct": 2
+  },
+  {
+    "id": 3,
+    "question": "How many months have 28 days?",
+    "options": ["1", "6", "12", "None"],
+    "correct": 3
+  },
+  {
+    "id": 4,
+    "question": "Which animal is known for having a long neck?",
+    "options": ["Elephant", "Giraffe", "Zebra", "Hippo"],
+    "correct": 2
+  },
+  {
+    "id": 5,
+    "question": "What do bees make?",
+    "options": ["Milk", "Juice", "Honey", "Water"],
+    "correct": 3
+  },
+  {
+    "id": 6,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of these is used to write on a blackboard?",
+    "options": ["Pen", "Chalk", "Pencil", "Marker"],
+    "correct": 2
+  },
+  {
+    "id": 8,
+    "question": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Rome"],
+    "correct": 3
+  },
+  {
+    "id": 9,
+    "question": "How many wheels does a tricycle have?",
+    "options": ["2", "3", "4", "1"],
+    "correct": 3
+  },
+  {
+    "id": 10,
+    "question": "Which fruit is often associated with Isaac Newton?",
+    "options": ["Banana", "Apple", "Grape", "Orange"],
+    "correct": 2
+  }
+]
