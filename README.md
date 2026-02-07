@@ -23,3 +23,12 @@ Results Page: Shows exactly how you performed at the end.
 How to Run the Project
 Install: Run npm install in your terminal.
 Start: Run npm run dev to open the app in your browser.
+
+This is our main page where we start the quiz 
+<img width="1843" height="918" alt="image" src="https://github.com/user-attachments/assets/e1f96310-90f9-4aba-b6db-7f28e64cec66" />
+
+This is our result page where we get to see the actual result or score after submitting the quiz
+<img width="1808" height="888" alt="image" src="https://github.com/user-attachments/assets/3471bdd0-8572-426f-8d74-62ffeac9cdde" />
+
+
+
